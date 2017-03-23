@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ProgramsTableViewController.h
 //  DS Test App
 //
 //  Created by Grigory Tarashuk on 3/23/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ProgramsTableViewController : UITableViewController
 
 @end
-
